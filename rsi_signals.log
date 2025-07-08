@@ -1,0 +1,8 @@
+2025-07-09 07:47:18,995 - 時間: 2025-07-08 23:00:00, RSI: 56.45 (無訊號)
+2025-07-09 07:47:19,164 - Push message sent successfully!
+2025-07-09 07:47:19,369 - 開始監控 BTCUSDT 的 RSI（間隔: 1h, 週期: 14）
+2025-07-09 07:47:27,987 - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000020C8CE65A30>
+2025-07-09 07:47:27,988 - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x0000020C8CDD9FD0>, 850521.343)])']
+connector: <aiohttp.connector.TCPConnector object at 0x0000020C8CE659A0>
